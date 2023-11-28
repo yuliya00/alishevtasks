@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3.1">
+<file name="C:\projects\alishevtasks\src\main\java\lesson1\Task1.java">
+<error line="1" column="9" severity="error" message="Name &apos;lesson1&apos; must match pattern &apos;^[a-z]+(\.[a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="6" column="15" severity="error" message="&apos;(&apos; is followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+</file>
+<file name="C:\projects\alishevtasks\src\main\java\lesson2\Task1.java">
+<error line="1" column="9" severity="error" message="Name &apos;lesson2&apos; must match pattern &apos;^[a-z]+(\.[a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="C:\projects\alishevtasks\src\main\java\lesson2\Task2.java">
+<error line="1" column="9" severity="error" message="Name &apos;lesson2&apos; must match pattern &apos;^[a-z]+(\.[a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="C:\projects\alishevtasks\src\main\java\lesson2\Task3.java">
+<error line="1" column="9" severity="error" message="Name &apos;lesson2&apos; must match pattern &apos;^[a-z]+(\.[a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+</checkstyle>
